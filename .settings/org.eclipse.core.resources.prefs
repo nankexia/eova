@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//resources/beetl.properties=UTF-8
+encoding//resources/default/jdbc.config=UTF-8
+encoding//webapp/eova/header.html=UTF-8
+encoding//webapp/eova/htmltag/field.tag=UTF-8
+encoding//webapp/eova/icon.html=UTF-8
+encoding//webapp/eova/index.html=UTF-8
+encoding//webapp/eova/init.html=UTF-8
+encoding//webapp/eova/main.html=UTF-8
+encoding//webapp/eova/uedemo.html=UTF-8
+encoding/<project>=UTF-8
+encoding/pom.xml=UTF-8
