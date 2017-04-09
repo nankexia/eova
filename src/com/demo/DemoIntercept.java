@@ -40,7 +40,7 @@ public class DemoIntercept extends MetaObjectIntercept {
 		if (!xx.isEmpty(name)) {
 			ac.condition = " state = " + name;
 		}
-		
+		//=========================================
 		// 同理：想添加自定义查询条件，直接添加元字段
 		// 然后配置为 可查询，禁止编辑，禁止新增，然后获取值
 		// 利用本AOP方法可自定义查询sql即可
